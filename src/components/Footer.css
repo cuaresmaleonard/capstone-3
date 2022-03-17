@@ -1,0 +1,24 @@
+footer {
+    background-color: #171717;
+    border-top: "1px solid #E7E7E7";
+    text-align: "center";
+    padding: "20px";
+    position: "fixed";
+    left: 0;
+    bottom: 0;
+    bottom:0;
+    width:100%;
+    height:60px;     
+}
+
+#copyright {
+    text-align: center;
+    color: white;	
+    padding-top: auto;
+    
+}
+
+footer p {
+    padding-top: 18px;
+}
+
